@@ -1,1 +1,1 @@
-# MyCatApp
+# MyCatPhotoApp
